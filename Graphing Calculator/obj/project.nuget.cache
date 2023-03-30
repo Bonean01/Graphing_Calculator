@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2MwDs3egxh0sIwDkFo4wSpx2kdrx5qp2zH22AtJ9RhqfhYj6EqKorX9Ob8kmFOXborWc7uXXGUPWjSwbsUpB8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\borbe\\source\\repos\\Graphing Calculator\\Graphing Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\borbe\\.nuget\\packages\\dynamiclanguageruntime\\1.3.3\\dynamiclanguageruntime.1.3.3.nupkg.sha512",
+    "C:\\Users\\borbe\\.nuget\\packages\\ironpython\\3.4.0\\ironpython.3.4.0.nupkg.sha512",
+    "C:\\Users\\borbe\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\borbe\\.nuget\\packages\\sayers.sdl2.core\\1.0.11\\sayers.sdl2.core.1.0.11.nupkg.sha512",
+    "C:\\Users\\borbe\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
